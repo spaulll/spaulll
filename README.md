@@ -37,67 +37,43 @@ These days, AI helps me turn those ideas into working projects.
 
 ## `// Featured Projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [AriaFlow](https://github.com/spaulll/AriaFlow)
-
-Self-hosted Telegram bot for aria2 & yt-dlp that downloads links/torrents and auto-organizes media into a clean library.
-
-`Telegram` `Proxmox` `Automation` `Aria2`
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ [Polycab Solar Dashboard](https://github.com/spaulll/polycab-solar-dashboard)
-
-Solar monitoring dashboard that turns Modbus data into live + historical insights.
-
-`Solar` `Modbus TCP` `FastAPI` `WebSockets`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [ESP UPS System](https://github.com/spaulll/esp-ups-system)
-
-A custom power-monitoring and notification system integrating ESP32 hardware with a homelab environment.
-
-`ESP32` `Raspberry Pi` `Proxmox` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 [Proxmox Homelab](https://github.com/spaulll/proxmox-homelab)
-
-My playground for virtualization, self-hosted services, infrastructure experiments, and learning by doing.
-
-`Proxmox` `Self-hosting` `Infrastructure`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [Trading Journal](https://github.com/spaulll/trading-journal)
-
-A personal trading workspace for recording trades, reviewing performance, and understanding trading habits.
-
-`Trading` `Analytics` `FastAPI` `SvelteKit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ [OVM](https://github.com/spaulll/OVM)
-
-An earlier experiment exploring blockchain-based voting and gasless transactions.
-
-`Blockchain` `Smart Contracts` `Web3`
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>📊 <a href="https://github.com/spaulll/trading-journal">Trading Journal</a></h3>
+      <p>A full-stack trading journal with trade lifecycle tracking, analytics, prop-firm account management, Telegram integration, and automation.</p>
+      <code>Python</code> <code>FastAPI</code> <code>SvelteKit</code> <code>SQLite</code>
+    </td>
+    <td width="50%">
+      <h3>⬇️ <a href="https://github.com/spaulll/AriaFlow">AriaFlow</a></h3>
+      <p>A self-hosted Telegram download manager with aria2 and yt-dlp, supporting torrents, media organization, archive extraction, and multiple users.</p>
+      <code>Go</code> <code>Telegram</code> <code>aria2</code> <code>yt-dlp</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>☀️ <a href="https://github.com/spaulll/polycab-solar-dashboard">Polycab Solar Dashboard</a></h3>
+      <p>A real-time solar inverter monitoring dashboard with Modbus TCP integration, historical data, live charts, and CSV exports.</p>
+      <code>Python</code> <code>Modbus TCP</code> <code>WebSockets</code> <code>SQLite</code>
+    </td>
+    <td width="50%">
+      <h3>🔋 <a href="https://github.com/spaulll/esp-ups-system">ESP UPS System</a></h3>
+      <p>An ESP32-based mains and UPS monitoring system with automated shutdown, power-event tracking, and Telegram notifications.</p>
+      <code>ESP32</code> <code>Python</code> <code>Raspberry Pi</code> <code>IoT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗳️ <a href="https://github.com/spaulll/OVM">OVM</a></h3>
+      <p>A blockchain-based voting machine built on Base L2, featuring gasless voting, smart contracts, and soulbound tokens.</p>
+      <code>Solidity</code> <code>Base</code> <code>React</code> <code>Web3</code>
+    </td>
+    <td width="50%">
+      <h3>☁️ <a href="https://github.com/spaulll/immich-b2-backup">Immich B2 Backup</a></h3>
+      <p>An automated encrypted off-site backup solution for Immich using Backblaze B2, with deletion safeguards, verification, and Telegram reports.</p>
+      <code>Immich</code> <code>Backblaze B2</code> <code>rclone</code> <code>Bash</code>
+    </td>
+  </tr>
 </table>
 
 ---
