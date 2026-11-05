@@ -41,18 +41,18 @@ These days, AI helps me turn those ideas into working projects.
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Trading Journal](https://github.com/spaulll/trading-journal)
+### 🤖 [AriaFlow](https://github.com/spaulll/AriaFlow)
 
-A personal trading workspace for recording trades, reviewing performance, and understanding trading habits.
+Self-hosted Telegram bot for aria2 & yt-dlp that downloads links/torrents and auto-organizes media into a clean library.
 
-`Trading` `Analytics` `FastAPI` `SvelteKit`
+`Telegram` `Proxmox` `Automation` `Aria2`
 
 </td>
 <td width="50%" valign="top">
 
 ### ☀️ [Polycab Solar Dashboard](https://github.com/spaulll/polycab-solar-dashboard)
 
-A solar monitoring dashboard connecting hardware data to a practical interface for live monitoring and historical analysis.
+Solar monitoring dashboard that turns Modbus data into live + historical insights.
 
 `Solar` `Modbus TCP` `FastAPI` `WebSockets`
 
@@ -81,11 +81,11 @@ My playground for virtualization, self-hosted services, infrastructure experimen
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Prox Download Bot](https://github.com/spaulll/prox-download-bot)
+### 📈 [Trading Journal](https://github.com/spaulll/trading-journal)
 
-A Telegram bot for managing downloads through a Proxmox-based homelab workflow.
+A personal trading workspace for recording trades, reviewing performance, and understanding trading habits.
 
-`Telegram` `Proxmox` `Automation` `Aria2`
+`Trading` `Analytics` `FastAPI` `SvelteKit`
 
 </td>
 <td width="50%" valign="top">
